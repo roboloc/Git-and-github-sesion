@@ -1,0 +1,33 @@
+Programming cara untuk berkomunikasi dengan mesin
+
+[Programing jalan
+Analisis Problem -> cara untuk solve -> solusinya
+]
+
+Algoritma
+Cara berpikir yang mendetail secara step by step untuk menyelesaikan suatu task
+
+Java Script
+terlihat karena callback queue
+bahasa pemrogramman untuk websiet tetapi sekarang bisa digunakan secara luas tetapi harus ada v8
+
+-hanya bisa menajalankan secara single thread---secara satu persatu
+-Asnchronus menajalankan secara acak bisa dari line 4, 7,8
+-Non Blocking menajalnkan dengan tidak memblock yang sebelumnya
+
+
+Javascript itu high level language -- c itu low level language
+
+Javascript bisa digunakan dimana saja(Interoperability)
+
+Tapilan dibekan menjadi dua melalui GUI dan commend line
+
+Variabel
+
+Data Types
+
+Type Script
+
+Type Conversion
+
+Operator
